@@ -26,6 +26,9 @@
 # Allow any files from /Movies dir (webm, mp4, file media sources, attenuations and so on).
 !/Content/Movies/*
 
+# Allow anyhting in docs dir.
+!/docs/**/*
+
 # OS/platform generated files.
 
 # Windows
